@@ -24,3 +24,10 @@ Task list:
     - for baseline solution without modifications – you will score 25/50 pts
     - for typical modifications: tuned hyperparameters, switched backbone, image augmentation added – you will score around 35-40/50 pts
     - for other, but reasonable modifications, that can be learned from kaggle discussions or research  papers – you will score around 50/50 pts. One such modification is enough. The modifications that do not improve the results still count (as long as they are reasonable).
+
+
+
+Interesting code to improve our:
+- https://www.kaggle.com/code/khoongweihao/insect-augmentation-et-al
+- https://www.kaggle.com/code/amartyabhattacharya/beginner-s-image-processing-and-eda
+- https://www.kaggle.com/code/praveengovi/plant-pathology-detail-eda-pytorch

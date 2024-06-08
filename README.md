@@ -7,9 +7,9 @@ Type: Image classification
 
 Task list:
 
-6. Download the competition dataset.
-7. Read about existing solutions (e. g. challenge discussions).
-8. Download one of the existing solutions or implement your own some simple solution as your baseline.
+6. ~~Download the competition dataset.~~
+7. ~~Read about existing solutions (e. g. challenge discussions).~~
+8. ~~Download one of the existing solutions or implement your own some simple solution as your baseline.~~
 9. Improve, extend and optimize the solution using the time you have available for the laboratory classes.
 10. Evaluate your solutions against the competitions leaderboard or results presented for given dataset in research papers.
 11. Prepare presentation of your solution. It should be 10 minutes long and optimally should include the following information:

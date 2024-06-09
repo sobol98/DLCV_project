@@ -10,14 +10,14 @@ Task list:
 6. ~~Download the competition dataset.~~
 7. ~~Read about existing solutions (e. g. challenge discussions).~~
 8. ~~Download one of the existing solutions or implement your own some simple solution as your baseline.~~
-    - get full test data
-10. Improve, extend and optimize the solution using the time you have available for the laboratory classes.
+    - get full test data  - idk, maybe it is hide
+10.~~Improve, extend and optimize the solution using the time you have available for the laboratory classes.~~
 11. Evaluate your solutions against the competitions leaderboard or results presented for given dataset in research papers.
 12. Prepare presentation of your solution. It should be 10 minutes long and optimally should include the following information:
     - Description of the investigated task, including the metric to be optimized and the dataset
     - Description of the approach used by your group
     - Implemented modifications and upgrades, along with their impact on the solution (including modifications that did not improve results)
-    - Comparison of your results to other solutions, challenge leaderboard or scientific papers (even if the achieved results are far worse)
+    - Comparison of your results to other solutions, challenge leaderboard or scientific papers (even if the achieved results are far worse) -> for example https://www.kaggle.com/code/alekseyeliseev/pytorchlightning-efficientnetv2-inference-tsfm
     - Descriptions of top performing solutions that were published (e.g. in Kaggle discussions after the competition had ended, or in scientific papers)
   
 13. Laboratory grade will depend on the amount of effort you put in modifying your solution:
@@ -27,7 +27,7 @@ Task list:
 
 
 
-Interesting code to improve our:
+Interesting code to improve our solution:
 - https://www.kaggle.com/code/khoongweihao/insect-augmentation-et-al
 - https://www.kaggle.com/code/amartyabhattacharya/beginner-s-image-processing-and-eda
 - https://www.kaggle.com/code/praveengovi/plant-pathology-detail-eda-pytorch
